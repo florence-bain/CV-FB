@@ -19,7 +19,10 @@
                   
 ## Background
 A Makers graduate with a real drive to develop and collaborate on technological solutions for challenging problems. A fast-learning person with a passion for technology and its inner working, led by curiosity, creativity, and eagerness.
-Well-versed in writing and testing quality code, following effective and efficient working practices to deliver organizational success. Thriving in an innovative, rapid design and development environment with strengths in problem-solving, strategic thinking, relationship building, communication and delivery of results.
+
+Coming into the software industry I decided to start with community, which is how I found Codebar and Women Who Code. I am an active member in both communities and really enjoy attending events and meetups. As a member of Codebar slack I came across their scholarship program with Makers which I was so excited for and decided then and there to try to get a place on the scholarship. I dedicated a lot of my time to learning and would often be found on my lunch break with a coding book in hand or on the tube listening to CodeNewbie podcasts, trying to make use of all my free time. Although I was not selected for the scholarship I was even more determined to commit myself to learning to code and starting a career in software development which is how I got here as a Makers Graduate.
+
+Before Makers I worked in a range of customer service roles across the UK, Australia and New Zealand. Spending most of my early 20’s traveling I was given some great opportunities to grow and develop as a person, whilst traveling Australia I had the chance to experience some very different lifestyles such as living and working as a Farm and Nursery Hand. 🪴
                   
 ## Projects
 Below is a selection of the projects I've worked on. Please look to my [Github](https://github.com/florence-bain) for a complete list.
@@ -30,33 +33,27 @@ Below is a selection of the projects I've worked on. Please look to my [Github](
 | [Bank Tech Test](https://github.com/florence-bain/bank_tech_test) |An example tech test, written in ruby to demonstrate TDD, OOP and clean code principles | 2 days | Ruby | RSpec |
 
 ## Skills
-
-#### Innovative Collaborator
-Having an innovative mindset and inventive thinking results in improved performance which I can highlight from my experience in my role at urbanest. I had the ability to think on my feet and handle customer service requests and complaints from start to finish, handling a mixture of issues and using my skills to resolve conflicts.
-
-Working on group projects such as [Acebook](https://github.com/florence-bain/acebook-runtime-terror) and [Traderunner](https://github.com/florence-bain/CRYP-3PO) illustrate team working capabilities following an agile product development process and developer workflows. Daily standups and retros identified areas that needed improving for example during the [Traderunner](https://github.com/florence-bain/CRYP-3PO) project, the team was not aligned with the priority of tasks, to solve this solution I recommended we start using a card wall and pair programming to keep on track.
-                  
 #### Self-Starter
-An everlasting hunger for new challenges and projects to continue learning new material and concepts effectively and efficiently.
-With eagerness to familiarize myself with Python for the [Traderunner](https://github.com/florence-bain/CRYP-3PO) project, using Python for the first time I took it upon myself to start delving into python and coincidentally I found an intrest in learning about how blockchains work. This is a work in progress, however I really enjoyed getting the exposure and found it to be so intriguing to understand how the blockchain works. [my-project](https://github.com/florence-bain/my-project) example.
+My interest in cryptocurrencies boomed at the end of 2020 as I started to heavily invest my time in learning the technology and how cryptocurrencies worked. Authentication of luxury items is a hobby I picked up during the pandemic which ties in very well with blockchain development, and led me to start looking at businesses that are developing software to reinvent the way we view items and mainstream ways of purchasing. Two companies that I have enjoyed watching develop are VeChain and AURA both who are creating ways of providing authentication on the blockchain for physical goods.
 
-Each morning personal learning objectives for the day are recorded, working towards higher-level learning goals. At the end of each day, a daily review to reflect on the objectives I set out to achieve is completed. This approach adds structure and motivation in a fast-paced environment and enables me to manage my own well being.
+An everlasting hunger for new challenges and projects to continue learning new material and concepts effectively and efficiently. With eagerness to familiarize myself with Python for the [Traderunner](https://github.com/florence-bain/CRYP-3PO) project, using Python for the first time I took it upon myself to start delving into python and coincidentally I found an intrest in learning about how blockchains work. This is a work in progress, however I really enjoyed getting the exposure and found it to be so intriguing to understand how the blockchain works. [my-project](https://github.com/florence-bain/my-project) example.
 
-Achieved managing 2020's re-booking students within urbanest, coordinating with mulitiple departments and moved 100 students across sites within London during a two week period with no complications which reflects my ambitious attitude and a keen eye for detail, transferring these skills to software development.
-                  
-#### Communication
-Having worked in customer serivce for almost a decade and as a customer service assistant for urbanest for the last two and a half years,  communication has been vital internally and externally. Created professional correspondence in email form, telephony, and mail on a daily basis. Led workshops to train new colleagues and attend meeting with the local community, give presentations regarding new innovative ideas and efficient workflows. At Makers I pair programmed daily and often have the chance to be the scrum leader for our group projects. I am flexible and able to modify my process to align with the team. 
-                  
 #### Self-Confidence
 My self-confidence and personal development have benefitted from not only securing a place Makers but also four years traveling and working in Europe, Asia, New Zealand, and Australia. Subjecting myself to a diverse range of employers and environments has significantly improved my ability to overcome obstacles that come with entering into the unknown, to be able to think practically and adapt to difficult situations.
+
 During [MakersBnb](https://github.com/florence-bain/MakersBnb) my self confidence took a hit as I felt like I was not up to the same level as my peers, however as the week went on my confidence grew and I started to ask more questions ensuring I understood what we were doing and why. This was a great experience for growth and allowed me to embrace the feeling of uncertainty and take my learning into my own hands.
+
+#### Innovative Collaborator
+As a tech for good advocate I actively keep up to date with new and intresting tech especially in the B Corp movement. I enjoy brainstorming ideas with friends and discussing ideas on platforms such as reddit where we raise problems and try to think of high level solutions, e.g. drones could be used for search and rescue - sustainble and less risk. This is something I feel passionatly about and love that I now hold the skills to start creating and developing my own ideas that support the tech for good inititive.  
+
+Working on group projects such as [Acebook](https://github.com/florence-bain/acebook-runtime-terror) and [Traderunner](https://github.com/florence-bain/CRYP-3PO) illustrate team working capabilities following an agile product development process and developer workflows. Daily standups and retros identified areas that needed improving for example during the [Traderunner](https://github.com/florence-bain/CRYP-3PO) project, the team was not aligned with the priority of tasks, to solve this solution I recommended we start using a card wall and pair programming to keep on track.
+                                   
+#### Communication
+My last role involved a lot of communication with the community. I am very passionate about sustainability and had the opportunity to work closely with King’s Cross Estate who are now certified carbon neutral and attended monthly sustainability meetings. The meetings detailed all projects across the estate as well as new plans which I then presented to my team at Urbanest. I had the chance to work with the community organising events such as food donations to local charities and supporting recycling initiatives with LSE throughout our building.
+
+Throughout Makers I pair programmed daily which was a huge part of my experience, that resulted in better quality code, team communication and knowledge sharing. I had the chance to be the scrum leader during our group projects, this involved holding standups and retros as well as organising the tasks for the day and delegating to pairs. This was a great intro to agile working practices and how developers work together as a team to create amazing projects. 
                   
-#### Commitment
-Following many months of research and practice, I was incredibly committed to secure a place on the Makers bootcamp and more determined after having not been sucessful in getting a place for the scholarship. I was able to make use of my desire to learn, with curiosity pushing me to use self-led learning techniques to prepare for the application process and have the commitment to work every day to ensure there was a possibility of being accepted. With discipline, focus, and motivation I have been able to progress with my journey of becoming a software developer.
-As a compassionate person, I am continuously striving to support others and committed to making positive changes.
-                  
-## Education
-                  
+## Education           
 #### Makers Academy (July 2021 to November 2021)
 *London's leading intensive development bootcamp*
 - Pair-Programming
