@@ -28,7 +28,7 @@ Before Makers I worked in a range of customer service roles across the UK, Austr
 Below is a selection of the projects I've worked on. Please look to my [Github](https://github.com/florence-bain) for a complete list.
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Traderunner](https://github.com/florence-bain/CRYP-3PO) | The final project of the Makers Academy curriculum, in a team of four, we created an automatic cryptocurrency trading bot [Video Demo](https://drive.google.com/file/d/1Bb8Kh7AoeUf0PBqT9HrgTw0STX3QHgG9/view?usp=sharing) of Traderunner project. | 2 weeks | Python, Django, MySQL (Bianace API) | unittest-built in python testing|
+| [Traderunner](https://github.com/florence-bain/CRYP-3PO) | The final project of the Makers Academy curriculum, in a team of four, we created an automated cryptocurrency trading bot [Video Demo](https://drive.google.com/file/d/1Bb8Kh7AoeUf0PBqT9HrgTw0STX3QHgG9/view?usp=sharing) of Traderunner project. | 2 weeks | Python, Django, MySQL (Bianace API) | unittest-built in python testing|
 | [Acebook](https://github.com/florence-bain/acebook-runtime-terror) | As a team of six, we set off to create our own version of the social media platform Facebook. [Video Demo](https://drive.google.com/file/d/15NOlogbow6i76ePrIhz91n8AZfqGMpQs/view?usp=sharing) of Acebook Project. | 2 weeks | Ruby on Rails, HTML/CSS, PostgreSQL, Heroku | RSpec, Capybara|
 | [Bank Tech Test](https://github.com/florence-bain/bank_tech_test) |An example tech test, written in ruby to demonstrate TDD, OOP and clean code principles | 2 days | Ruby | RSpec |
 
